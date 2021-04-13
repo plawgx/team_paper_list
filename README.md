@@ -54,3 +54,10 @@
 ## 2017年及以前
 * Chenyi Lei, Dong Liu, Weiping Li, Zheng-Jun Zha, Houqiang Li. Comparative deep learning of hybrid representations for image recommendations, CVPR 2016
 * Chenyi Lei, Dong Liu. Image annotation via social diffusion analysis with common interests, ICMEW 2014
+
+# competition
+
+* 之江实验室2018视觉问答全球大赛，冠军
+* ACM Multimedia 2019, Winner of the Content-Based Video Relevance Prediction Challenge
+* The Chalearn LAP Apparent Age Estimation. CVPR Workshop 2016. 第二名
+* 2019年之江实验室video caption 第二名
