@@ -15,16 +15,16 @@
 # Conference Papers
 
 ## 2021年
-* Qiong Wu,Yong Liu, Chunyan Miao, Yin Zhao,Lu Guan, Haihong Tang. A Hybrid Bandit Framework for Diversified Recommendation  (AAAI-21 Accepted). 
+* Qiong Wu,Yong Liu, Chunyan Miao, Yin Zhao,Lu Guan, Haihong Tang. A Hybrid Bandit Framework for Diversified Recommendation, AAAI-21. 
 * Long Guo, Lifeng Hua, Rongfei Jia, Fei Fang, Binqiang Zhao, Bin Cui. EdgeDIPN: a Unified Deep Intent Prediction Network Deployed at the Edge, VLDB 2021
 
 ## 2020年
-* One-sample Guided Object Representation Disassembling. Zunlei Feng (Zhejiang University) · Yongming He (Zhejiang University) · Xinchao Wang (Stevens Institute of Technology) · Xin Gao (Alibaba Group) · Jie Lei (Zhejiang University) · Cheng Jin (Fudan University) · Mingli Song (Zhejiang University)  , NeurIPS 2020
+* Zunlei Feng, Yongming He, Xinchao Wang, Xin Gao, Jie Lei, Cheng Jin, Mingli Song.One-sample Guided Object Representation Disassembling. NeurIPS 2020
 * Yong Liu,Yingtai Xiao,Qiong Wu,Chunyan Miao,Juyong Zhang,Binqiang Zhao,Haihong Tang. Diversified Interactive Recommendation with Implicit Feedback. AAAI 2020
-* [IJCAI 2020] Yinan Zhang, Yong Liu, Peng Han, Chunyan Miao, Baoli Li ，Haihong Tang. Learning Personalized Itemset Mapping for Cross-Domain Recommendation.
-* Jingwen Ye, Yixin Ji, Xinchao Wang, Xin Gao, Mingli Song. Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN. CVPR 2020
-* Ya Zhao,Rui Xu,Xinchao Wang,Peng Hou,Haihong Tang,Mingli Song. Hearing Lips: Improving Lip Reading by Distilling Speech Recognizers. AAAI 2020
-* Chenyi Lei, Lei Wu, Dong Liu, Zhao Li, Guoxin Wang, Haihong Tang, Houqiang Li. Multi-question learning for visual question answering. AAAI 2020
+* Yinan Zhang, Yong Liu, Peng Han, Chunyan Miao, Baoli Li ，Haihong Tang. Learning Personalized Itemset Mapping for Cross-Domain Recommendation.IJCAI 2020
+* Jingwen Ye, Yixin Ji, Xinchao Wang, Xin Gao, Mingli Song. Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN, CVPR 2020
+* Ya Zhao,Rui Xu,Xinchao Wang,Peng Hou,Haihong Tang,Mingli Song. Hearing Lips: Improving Lip Reading by Distilling Speech Recognizers, AAAI 2020
+* Chenyi Lei, Lei Wu, Dong Liu, Zhao Li, Guoxin Wang, Haihong Tang, Houqiang Li. Multi-question learning for visual question answering, AAAI 2020
 * Zhao Li, Chenyi Lei, Pengcheng Zou, Donghui Ding, Shichang Hu, Zehong Hu, Shouling Ji and Jianliang Gao. Attention with Long-term Interval-Based Gated Recurrent Units for Modeling Sequential User Behaviors, DASFAA 2020
 * Zhu Zhang, Zhou Zhao, Yang Zhao, Qi Wang, Huasheng Liu, Lianli Gao. Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences, CVPR 2020
 * Zhijie Lin, Zhou Zhao, Zhu Zhang, Qi Wang, Huasheng Liu. Weakly-Supervised Video Moment Retrieval via Semantic Completion Network, AAAI 2020
@@ -32,7 +32,7 @@
 * X Niu, B Li, C Li, R Xiao, H Sun, H Wang, H Deng, Z Chen. Gated Heterogeneous Graph Representation Learning for Shop Search in E-commerce, CIKM 2020
 * X Qu, Z Li, J Wang, Z Zhang, P Zou, J Jiang, J Huang, R Xiao, J Zhang. Category-aware Graph Neural Networks for Improving E-commerce Review Helpfulness Prediction, CIKM 2020
 * X Niu, B Li, C Li, R Xiao, H Sun, H Deng, Z Chen. A Dual Heterogeneous Graph Attention Network to Improve Long-Tail Performance for Shop Search in E-Commerce, KDD 2020
-* Cheng Zhao, Chenliang Li, Rong Xiao, Hongbo Deng, and Aixin Sun. 2020. CATN: Cross-domain recommendation for cold-start users via aspect transfer network. In SIGIR 2020
+* Cheng Zhao, Chenliang Li, Rong Xiao, Hongbo Deng, and Aixin Sun. CATN: Cross-domain recommendation for cold-start users via aspect transfer network, SIGIR 2020
 * Z Chen, R Xiao, C Li, G Ye, H Sun, H Deng. ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance, SIGIR 2020
 
 ## 2019年
