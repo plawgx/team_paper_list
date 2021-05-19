@@ -12,7 +12,7 @@
 * Attention with long-term interval-based deep sequential learning for recommendation. Zhao Li, Long Zhang, Chenyi Lei, Xia Chen, Jianliang Gao, Jun Gao. Complexity, Volume 2020
 
 ## 2019年
-* Jingwen Ye, Yongcheng Jing, Xinchao Wang, Kairi Ou, Dacheng Tao, Mingli Song. Edge-Sensitive Human Cutout with Hierarchical Granularity and Loopy Matting Guidance. IEEE TRANSACTIONS ON IMAGE PROCESSING
+* Jingwen Ye, Yongcheng Jing, Xinchao Wang, Kairi Ou, Dacheng Tao, Mingli Song. Edge-Sensitive Human Cutout with Hierarchical Granularity and Loopy Matting Guidance. IEEE Transactions on Image Processing
 
 ## 2017年及以前
 * Chenyi Lei, Dong Liu, Weiping Li. Social diffusion analysis with common-interest model for image annotation, IEEE Transactions on Multimedia 2015
