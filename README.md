@@ -1,3 +1,8 @@
+# Lastest News
+
+* "SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations" KDD 2021 accepted 
+* We are recuriting! Please visit [the opening position](https://talent.alibaba.com/off-campus-position/720722?trace=qrcode_share).
+
 # Journal Papers
 
 ## 2021年
@@ -16,6 +21,7 @@
 
 ## 2021年
 * Qiong Wu,Yong Liu, Chunyan Miao, Yin Zhao,Lu Guan, Haihong Tang. A Hybrid Bandit Framework for Diversified Recommendation, AAAI-21. 
+* SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations, KDD 2021
 * Long Guo, Lifeng Hua, Rongfei Jia, Fei Fang, Binqiang Zhao, Bin Cui. EdgeDIPN: a Unified Deep Intent Prediction Network Deployed at the Edge, VLDB 2021
 
 ## 2020年
@@ -57,7 +63,8 @@
 
 # competition
 
-* 之江实验室2018视觉问答全球大赛，冠军
 * ACM Multimedia 2019, Winner of the Content-Based Video Relevance Prediction Challenge
+* 2019年之江杯video caption 第二名
+* 2018年之江杯视觉问答全球大赛，冠军
 * The Chalearn LAP Apparent Age Estimation. CVPR Workshop 2016. 第二名
-* 2019年之江实验室video caption 第二名
+
