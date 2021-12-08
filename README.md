@@ -5,7 +5,7 @@
 * We are recuriting! Please visit 
   * [the opening position](https://talent.alibaba.com/off-campus-position/810847?trace=qrcode_share)
   * [the opening position](https://talent.alibaba.com/off-campus-position/808067?trace=qrcode_share)
-  * [the opening position](https://talent.alibaba.com/off-campus-position/808408?trace=qrcode_share).
+  * [the opening position](https://talent.alibaba.com/off-campus-position/808408?trace=qrcode_share)
 
 # Journal Papers
 
