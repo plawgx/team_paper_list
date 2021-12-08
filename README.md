@@ -1,7 +1,11 @@
 # Lastest News
 
-* "SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations" KDD 2021 accepted 
-* We are recuriting! Please visit [the opening position](https://talent.alibaba.com/off-campus-position/720722?trace=qrcode_share).
+* "Understanding Chinese Video and Language via Contrastive Multimodal Pre-Training" ACMMM 2021 accepted 
+* "Pre-training Graph Transformer with Multimodal Side Information for Recommendation" ACMMM 2021 accepted
+* We are recuriting! Please visit 
+  * [the opening position](https://talent.alibaba.com/off-campus-position/810847?trace=qrcode_share)
+  * [the opening position](https://talent.alibaba.com/off-campus-position/808067?trace=qrcode_share)
+  * [the opening position](https://talent.alibaba.com/off-campus-position/808408?trace=qrcode_share).
 
 # Journal Papers
 
@@ -20,8 +24,10 @@
 # Conference Papers
 
 ## 2021年
+* Chenyi Lei, Shixian Luo, Yong Liu, Wanggui He, Jiamang Wang, Guoxin Wang, Haihong Tang, Chunyan Miao, Houqiang Li. Understanding Chinese Video and Language via Contrastive Multimodal Pre-Training, ACM MM 2021
+* Yong Liu, Susen Yang, Chenyi Lei, Guoxin Wang, Haihong Tang, Juyong Zhang, Aixin Sun, Chunyan Miao. Pre-training Graph Transformer with Multimodal Side Information for Recommendation, ACM MM 2021
 * Qiong Wu,Yong Liu, Chunyan Miao, Yin Zhao,Lu Guan, Haihong Tang. A Hybrid Bandit Framework for Diversified Recommendation, AAAI-21. 
-* SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations, KDD 2021
+* Chenyi Lei, Yong Liu, Lingzi Zhang, Guoxin Wang, Haihong Tang, Houqiang Li, Chunyan Miao. SEMI: A Sequential Multi-Modal Information Transfer Network for E-Commerce Micro-Video Recommendations, KDD 2021
 * Long Guo, Lifeng Hua, Rongfei Jia, Fei Fang, Binqiang Zhao, Bin Cui. EdgeDIPN: a Unified Deep Intent Prediction Network Deployed at the Edge, VLDB 2021
 
 ## 2020年
